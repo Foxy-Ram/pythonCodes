@@ -1,1 +1,1 @@
-<h2>The place i upload my python codes 🐍..</h2>
+<h2>I commits and uploads my python creations here🐍..</h2>
